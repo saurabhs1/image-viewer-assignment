@@ -6,14 +6,14 @@
     height: 60px;
 }
 
+.header-right-flex-container{
+    display: flex;
+}
+
 .logo {
     color: #fff; /* Logo text color */
     padding: 20px 20px 19px 20px; /* Centers the logo */
     font-weight: bold;
     font-size: 18px; /* Logo text font size*/
     cursor: pointer;
-}
-
-.header-right-flex-container{
-    display: flex;
 }
