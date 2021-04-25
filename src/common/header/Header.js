@@ -12,7 +12,7 @@ class Header extends Component {
     render() {
         return <div className='header-flex-container'>
         {
-                    <div>
+                    <div className='logo-flex-container'>
                             <header className='logo'>Image Viewer</header>
                     </div>
         }

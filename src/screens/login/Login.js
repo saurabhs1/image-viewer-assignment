@@ -106,6 +106,7 @@ class Login extends Component {
             this.setState({password: e.target.value, passwordHelperText: 'display-none'})
         }
     }
+    
 
     onLogin = () => {
         // If username is empty show required text
